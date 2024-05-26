@@ -1,0 +1,23 @@
+9 8 9 1 6
+0 1 M
+2 2 W
+3 1 W
+3 3 W
+4 6 W
+5 0 W
+6 6 W
+7 1 W
+8 3 M
+0 7
+5 2 PG W 2
+6 3 PG A 1
+7 2 PG D 4
+7 4 PG S 3
+7 5 PG D 3
+8 5 PG A 2
+S S A
+S A A
+S A S Y
+A A Y
+S D D Y
+S

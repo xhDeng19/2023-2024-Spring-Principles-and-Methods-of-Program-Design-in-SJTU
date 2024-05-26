@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1712670954 source:d:\sjtu\2024.2\principles and methods of program design\2024_4_24\assignment5\source\2_kth_element\main.cpp
+	<iostream>
+	"link.h"
+
+1713612031 d:\sjtu\2024.2\principles and methods of program design\2024_4_24\assignment5\source\2_kth_element\link.h
+
+1714115997 source:d:\sjtu\2024.2\principles and methods of program design\2024_4_24\assignment5\source\2_kth_element\link.cpp
+	"link.h"
+

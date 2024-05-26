@@ -1,0 +1,39 @@
+11 12 19 5 4
+0 0 M
+1 1 W
+1 8 M
+2 2 M
+2 6 W
+2 11 W
+3 0 W
+4 9 M
+5 1 W
+5 5 M
+6 8 W
+7 2 M
+7 4 W
+8 8 M
+9 1 W
+9 9 M
+9 11 W
+10 3 M
+10 6 W
+0 5
+4 8
+6 1
+6 11
+10 0
+1 2 PG D 4
+4 3 TG 5
+3 10 TG 3
+7 0 PG D 1
+A A Y
+W D S Y
+
+S W X W
+W W D Y
+W W X A
+
+D D X S
+W A A Y
+A S A Y

@@ -1,0 +1,19 @@
+18
+Const 0
+Assign x
+Var x
+Assign y
+Var y
+Assign z
+Var z
+Assign w
+Const 10
+Assign x
+Print x
+Var x
+Var w
+SubL
+SubR 2.5
+Assign m
+Print m
+Halt

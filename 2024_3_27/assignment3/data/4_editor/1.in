@@ -1,0 +1,21 @@
+20
+i #include<iostream>
+ENT
+i using namespace std
+i ;
+ENT
+i int main(){
+c 3 10
+ENT
+c 4 1
+ENT
+i cout<<"Hello World!";
+d 14
+u
+u
+r
+ENT
+i return 0; }
+c 5 19
+i \n
+p

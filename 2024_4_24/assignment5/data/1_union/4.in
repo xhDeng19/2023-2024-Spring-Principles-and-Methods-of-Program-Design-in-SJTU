@@ -1,0 +1,18 @@
+17
+Const 5
+Const 4
+Const 3
+Const 2
+Const 1
+Const 0
+Assign x
+Print x
+AddL
+AddL
+AddR 6.23
+SubL
+SubL
+SubR 1.24
+Assign x
+Print x
+Halt

@@ -1,0 +1,25 @@
+24
+Const 10
+Assign z
+Const 1
+Assign y
+Var z
+Const 4.782
+JmpLt 23
+Var y
+Var z
+AddR 0.458
+AddR 0.273
+AddL
+Assign y
+Var z
+Const 2
+SubL
+SubR 0.5
+Assign z
+Print y
+Var z
+Const 5
+JmpEq 22
+Jmp 4
+Halt

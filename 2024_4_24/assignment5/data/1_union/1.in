@@ -1,0 +1,18 @@
+17
+Const 10
+Assign z
+Const 0.5
+Assign y
+Var z
+Const 0
+JmpEq 15
+Var y
+Var z
+AddL
+Assign y
+Var z
+SubR 1
+Assign z
+Jmp 4
+Print y
+Halt

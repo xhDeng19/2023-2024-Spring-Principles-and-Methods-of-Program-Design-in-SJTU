@@ -1,0 +1,18 @@
+17
+Const 0
+Assign vx
+Var vx
+Assign vy
+Var vy
+Assign z
+Var z
+Assign w
+Const 10
+Assign vx
+Print vx
+Var vx
+Var w
+Div
+Assign m
+Print m
+Halt

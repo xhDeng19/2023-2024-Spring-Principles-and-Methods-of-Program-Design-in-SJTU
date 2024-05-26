@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1715689706 source:d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\algorithms.cpp
+	"algorithms.h"
+	<Vector.h>
+	<Grid.h>
+	<cassert>
+	<Queue.h>
+
+1715689318 d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\algorithms.h
+	<Grid.h>
+	<Vector.h>
+	"field.h"
+
+1716622240 d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\field.h
+	<ostream>
+	<Grid.h>
+
+1716697007 source:d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\main.cpp
+	<iostream>
+	<fstream>
+	"field.h"
+	"units.h"
+	"engine.h"
+
+1716696517 d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\units.h
+	<memory>
+	<string>
+	"field.h"
+
+1716630415 d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\engine.h
+	<iostream>
+	"field.h"
+
+1716696517 source:d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\units.cpp
+	"units.h"
+	"field.h"
+	<cassert>
+
+1716637814 source:d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\field.cpp
+	<string>
+	<cassert>
+	<iomanip>
+	"field.h"
+	"units.h"
+
+1716698629 source:d:\sjtu\2024.2\principles and methods of program design\final_assignment\judger_student\mages&goblins\engine.cpp
+	<sstream>
+	<iomanip>
+	<cassert>
+	<Queue.h>
+	"engine.h"
+	"units.h"
+	"vector.h"
+	"Stack.h"
+	"algorithms.h"
+

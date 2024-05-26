@@ -1,0 +1,4 @@
+Undo is an interaction technique which is implemented in many computer programs. It erases the last change done to the document, reverting it to an older state. In some more advanced programs, such as graphic processing, undo will negate the last command done to the file being edited. With the possibility of undo, users can explore and work without fear of making mistakes, because they can easily be undone.
+The opposite of undo is redo. 
+Undo is an interaction technique which is implemented in many computer programs. It erases the last change done to the document, reverting it to an older state. In some more advanced programs, such as graphic processing, undo will negate the last command done to the file being edited. With the possibility of undo, users can explore and work without fear of making mistakes, because they can easily be undone.
+

@@ -1,0 +1,14 @@
+13
+Const 1
+Const 2
+Const 3
+Const 4
+Const 5
+Add
+Sub
+Mul
+Assign x
+Print x
+Add
+Add
+Halt

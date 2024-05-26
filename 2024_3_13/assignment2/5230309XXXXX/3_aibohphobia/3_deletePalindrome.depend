@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709128834 source:d:\something_useful\learning\program_design\cs1604-assignments\2024\assignment2\5230309xxxxx\3_deletepalindrome\main.cpp
+	<iostream>
+
+1710324630 source:d:\sjtu\2024.2\principles and methods of program design\2024_3_13\assignment2\5230309xxxxx\3_aibohphobia\main.cpp
+	<iostream>
+	<cctype>
+
